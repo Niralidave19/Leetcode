@@ -1,1 +1,1 @@
-Hey! This repository consists of solutions to leetcode DSA problems
+Hey! This repository consists of solutions to Leetcode DSA problems.
